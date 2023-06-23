@@ -38,7 +38,7 @@ jobs:
         uses: actions/setup-node@v3
 
       - name: Build Assets
-        run: gem install bundler && bundle exec jekyll build
+        run: npm i && npm run build
 
       - name: Test Site
         run: bash tools/test
