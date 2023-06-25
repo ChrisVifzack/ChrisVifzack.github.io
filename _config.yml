@@ -20,10 +20,10 @@ timezone: Europe/Vienna
 
 title: Christina Piberger # the main title
 
-tagline: Projects and Tutorials # it will display as the sub-title
+tagline: Game Dev Portfolio #Projects and Tutorials # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Personal site for projects and tutorials.
+  Portfolio that features my projects and tutorials.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://chrisvifzack.github.io"

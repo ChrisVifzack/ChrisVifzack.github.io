@@ -18,7 +18,7 @@ I also designed some of the characters. For example the fairy queen:
 
 | Team size | My Role          | Time spent   | Technologies |
 |-----------|:----------------:|:------------:|:------------:|
-| 3 people  | `Programmer` + `Artist`   | 3 days       | Unity, C#    |
+| 3 people  | `Programmer/Artist`   | 3 days       | Unity, C#    |
 
 <iframe src="https://itch.io/embed/901111?linkback=true&amp;dark=true" width="552" height="167" frameborder="0"><a href="https://lady-c.itch.io/down-the-hole">Down the Hole by Lady_C, ChrisVifzack, MrNiacin</a></iframe>
 
