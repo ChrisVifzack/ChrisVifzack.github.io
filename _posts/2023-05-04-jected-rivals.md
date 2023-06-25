@@ -17,7 +17,7 @@ A fast-paced multiplayer game where characters get ejected from vehicles and can
 Players compete in a varity of Game Modes (e.g. Stuntrace, Glider Race, Crash Derby).
 
 I worked ~2 years as a full-time programmer on this game—using Unreal Engine and C++ every day.
-Among other things, I was mostly invoved with:
+Among other things, I was mostly involved with:
 - 3C (Character, Controls, Camera):
     - Ejecting the character from the vehicle
     - Character Locomotion + In-Air behavior
