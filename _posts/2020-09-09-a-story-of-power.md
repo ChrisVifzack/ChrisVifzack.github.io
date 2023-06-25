@@ -10,13 +10,14 @@ image:
   alt: Submission to HackTheMidlands 5.0.
 ---
 
-First time participating in a gamejam. I was the programmer on this project.
 
-What I learned:
-- Unity 3D and C#.
-- Keep the scope of game jam games much much smaller!
+First time participating in a gamejam. I was the programmer on this project and mainly improved my Unity and C# skills.
 
+A lesson we all learned was to keep the feature scope in the next gamejam **much much** smaller!
 
+| Team size | My Role          | Time spent   | Technologies |
+|-----------|:----------------:|:------------:|:------------:|
+| 3 people  | `Programmer`     | 3 days       | Unity, C#    |
 
 <iframe src="https://itch.io/embed/798711?linkback=true&amp;bg_color=ffffff&amp;fg_color=222222&amp;link_color=fabcef&amp;border_color=cf91c4" width="552" height="167" frameborder="0"><a href="https://lady-c.itch.io/a-story-of-power">A Story of Power by Lady_C, ChrisVifzack</a></iframe>
 

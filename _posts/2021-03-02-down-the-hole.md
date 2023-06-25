@@ -10,8 +10,11 @@ image:
   alt: Submission to GlobalGame Jam 2021.
 ---
 
-Again a Unity learning experience but this time a smaller scope.
+Another gamejam project I used as a Unity learning experience but this time a smaller scope. I also designed some of the characters.
 
+| Team size | My Role          | Time spent   | Technologies |
+|-----------|:----------------:|:------------:|:------------:|
+| 3 people  | `Programmer`     | 3 days       | Unity, C#    |
 
 <iframe src="https://itch.io/embed/901111?linkback=true&amp;dark=true" width="552" height="167" frameborder="0"><a href="https://lady-c.itch.io/down-the-hole">Down the Hole by Lady_C, ChrisVifzack, MrNiacin</a></iframe>
 

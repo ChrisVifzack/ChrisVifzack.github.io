@@ -10,11 +10,13 @@ image:
   alt: Submission to IGA Impact Jam 2022.
 ---
 
-Project to improve my 3D modelling skills with blender. I did not do any programming for this project.
+I had recently started to learn [Blender](https://www.blender.org/) and wanted to use my new skills in a gamejam. Except for some bugfixing towards the end, I did not do any programming for this project.
 
-What I learned:
-- Modelling and animating robots in blender and bring them into Unity
-- How to setup emissive materials in Unity.
+I used blender to model and animate the robots in the game as well as the neon signs. I also setup the lighting and emissive materials in Unity.
+
+| Team size | My Role          | Time spent   | Technologies |
+|-----------|:----------------:|:------------:|:------------:|
+| 3 people  | `Artist`     | 3 days       | Unity, Blender  |
 
 <iframe src="https://itch.io/embed/1397166?linkback=true&amp;dark=true" width="552" height="167" frameborder="0"><a href="https://lady-c.itch.io/recycle-or-else">Recycle Or Else! by Lady_C, MrNiacin, ChrisVifzack</a></iframe>
 

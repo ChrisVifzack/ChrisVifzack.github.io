@@ -10,13 +10,19 @@ image:
   alt: Submission to InkJam 2021.
 ---
 
+I've had my eye on [Godot](https://godotengine.org/) for a while and needed a reason to finally look into it. At the same time [Chloé Charlier](https://lady-c.github.io/portfolio-chloe-charlier/index.html) discovered Ink and asked me if we could use it in the next gamejam—and that's what we did.
 
-Project to learn Godot Engine and Ink during a weekend gamejam.
+Ink is a narrative scripting language for games by Inkle. I've found it very straight forward to use and used it in other projects as well.
+Learn more about it here: [https://www.inklestudios.com/ink/](https://www.inklestudios.com/ink/)
 
-Take-away: What I learned:
-- Godot engine and GDScript
-- How to use Ink in a game project
+I used the ephread's plugin to use Ink with Godot: [https://github.com/ephread/inkgd](https://github.com/ephread/inkgd)
 
+I also wrote some simple fragmentshaders in GLSL to animate the UI.
+
+
+| Team size | My Role          | Time spent   | Technologies |
+|-----------|:----------------:|:------------:|:------------:|
+| 2 people  | `Programmer`     | 2 days       | Godot, GDScript, Ink   |
 
 <iframe src="https://itch.io/embed/1178572?linkback=true&amp;bg_color=222222&amp;fg_color=eeeeee&amp;border_color=363636" width="552" height="167" frameborder="0"><a href="https://lady-c.itch.io/onlyhuman">Only Human by Lady_C, ChrisVifzack</a></iframe>
 

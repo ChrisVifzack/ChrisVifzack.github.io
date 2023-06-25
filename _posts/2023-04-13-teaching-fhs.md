@@ -45,9 +45,9 @@ image:
 - Packaging & Publishing
     - Unreal Automation Tool (UAT) + BuildCookRun
 
-[Slides as PDF](unreal_slides_SS2023.pdf):
+[Slides as PDF:](/assets/pdf/unreal_slides_SS2023.pdf)
 
  <object data="/assets/pdf/unreal_slides_SS2023.pdf#page=12&view=fit" type="application/pdf" width="100%" height="800px">
-      <p>Unable to display PDF file. <a href="unreal_slides_SS2023">Download</a> instead.</p>
+      <p>Unable to display PDF file. <a href="/assets/pdf/unreal_slides_SS2023.pdf">Download</a> instead.</p>
     </object>
 

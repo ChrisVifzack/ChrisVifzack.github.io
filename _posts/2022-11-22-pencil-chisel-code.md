@@ -11,7 +11,8 @@ image:
   alt: Logo designed by Chloé Charlier.
 ---
 
-Annual game jam I am co-hosting with [Chloé Charlier](https://lady-c.github.io/portfolio-chloe-charlier/index.html) every November on Itch.io.
+Annual game jam I am co-hosting with [Chloé Charlier](https://lady-c.github.io/portfolio-chloe-charlier/index.html) every November on [Itch.io](https://itch.io/).
+
 It's a 50-hours game jam that focuses on self-made assets.
 
 | Year       | Theme                                                           | Sumbissions | Ratings | Winner                                     |
