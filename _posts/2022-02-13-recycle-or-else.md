@@ -14,9 +14,12 @@ I had recently started to learn [Blender](https://www.blender.org/) and wanted t
 
 I used blender to model and animate the robots in the game as well as the neon signs. I also setup the lighting and emissive materials in Unity.
 
-| Team size | My Role          | Time spent   | Technologies |
-|-----------|:----------------:|:------------:|:------------:|
-| 3 people  | `Artist`     | 3 days       | Unity, Blender  |
+
+![img-blender-assets](/assets/img/posts/recycle_or_else.png)
+
+| Team size | My Role          | Time spent   | Technologies    |
+|-----------|:----------------:|:------------:|:---------------:|
+| 3 people  | `Artist`         | 3 days       | Unity, Blender  |
 
 <iframe src="https://itch.io/embed/1397166?linkback=true&amp;dark=true" width="552" height="167" frameborder="0"><a href="https://lady-c.itch.io/recycle-or-else">Recycle Or Else! by Lady_C, MrNiacin, ChrisVifzack</a></iframe>
 

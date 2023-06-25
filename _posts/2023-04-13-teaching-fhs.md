@@ -23,7 +23,7 @@ image:
 > In class we created mechanics similar to the ones in [_Jected Rivals_](/posts/jected-rivals/) (which was called _Stuntfest_ at that time).
 {: .prompt-info }
 
-![img](/assets/img/posts/fhs-goal.png)
+![img-fhs-goal](/assets/img/posts/fhs-goal.png)
 
 
 ### Topics:

@@ -16,9 +16,8 @@ Released [on Steam](https://store.steampowered.com/app/1366850/Jected__Rivals/) 
 A fast-paced multiplayer game where characters get ejected from vehicles and can use gadgets in the air.
 Players compete in a varity of Game Modes (e.g. Stuntrace, Glider Race, Crash Derby).
 
-
-
-I worked ~2 years as a full-time programmer, mainly on:
+I worked ~2 years as a full-time programmer on this game—using Unreal Engine and C++ every day.
+Among other things, I was mostly invoved with:
 - 3C (Character, Controls, Camera):
     - Ejecting the character from the vehicle
     - Character Locomotion + In-Air behavior
@@ -26,7 +25,8 @@ I worked ~2 years as a full-time programmer, mainly on:
 - Vehicle & Character AI:
     - Setup behavior trees
     - Spline selection (fitness calculated using weighted sum)
-    - Target finding for Crash Derby mode
+    - Target selection for Crash Derby mode
 
+<br>
 
 <iframe src="https://store.steampowered.com/widget/1366850/" frameborder="0" width="646" height="190"></iframe>

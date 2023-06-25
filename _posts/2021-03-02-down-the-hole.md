@@ -10,11 +10,15 @@ image:
   alt: Submission to GlobalGame Jam 2021.
 ---
 
-Another gamejam project I used as a Unity learning experience but this time a smaller scope. I also designed some of the characters.
+Another gamejam project I used as a Unity learning experience but this time a smaller scope. I reused the dialog system that I had previously implemented for [_A Story of Power_](/posts/a-story-of-power/)—a previous gamejam project. 
+
+I also designed some of the characters. For example the fairy queen:
+![img-fairy-queen](/assets/img/posts/dth-queen_process.png)
+
 
 | Team size | My Role          | Time spent   | Technologies |
 |-----------|:----------------:|:------------:|:------------:|
-| 3 people  | `Programmer`     | 3 days       | Unity, C#    |
+| 3 people  | `Programmer` + `Artist`   | 3 days       | Unity, C#    |
 
 <iframe src="https://itch.io/embed/901111?linkback=true&amp;dark=true" width="552" height="167" frameborder="0"><a href="https://lady-c.itch.io/down-the-hole">Down the Hole by Lady_C, ChrisVifzack, MrNiacin</a></iframe>
 
