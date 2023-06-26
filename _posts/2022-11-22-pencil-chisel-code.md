@@ -2,7 +2,7 @@
 title: Pencil, Chisel, Code!
 author: chris
 date: 2022-11-22 00:34:00 +0100
-categories: [Other, GameJam]
+categories: [Other, Events]
 tags: [itch.io, gamejam]
 pin: true
 image:
