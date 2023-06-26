@@ -5,7 +5,7 @@ date: 2017-06-10 00:34:00 +0100
 categories: [Game, Personal]
 tags: [game, unreal engine]
 image:
-  path: /assets/img/posts/first-unreal-game.png
+  path: /assets/img/posts/ue_first_steps.png
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt: First experiments in Unreal Engine in 2017. Invisible walls can be seen with flashlight.
 ---
@@ -24,5 +24,5 @@ Some features that I created:
   - Invisible wall uses a material with "Translucent" blend mode and SphereMask node linked to the opacity.
   - The flashlight hit location is updating the material parameter on the invisible wall.
 
-![img-first-unreal-2](/assets/img/posts/first-unreal-game-2.png)
+![img-first-unreal-2](/assets/img/posts/ue_first_steps_2.png)
 _Cheese had to be placed in front of mouse hole and when player looked away it was suddenly gone._

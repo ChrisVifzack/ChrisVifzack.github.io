@@ -6,7 +6,7 @@ categories: [Other, Teaching]
 tags: [university, unreal engine]
 pin: true
 image:
-  path: /assets/img/posts/fhs-title.png
+  path: /assets/img/posts/fhs_title.png
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt: Slides I prepared for the Unreal Engine part of Game Production Environments - SS 2023.
 ---
@@ -23,7 +23,7 @@ image:
 > In class we created mechanics similar to the ones in [_Jected Rivals_](/posts/jected-rivals/) (which was called _Stuntfest_ at that time).
 {: .prompt-info }
 
-![img-fhs-goal](/assets/img/posts/fhs-goal.png)
+![img-fhs-goal](/assets/img/posts/fhs_goal.png)
 
 
 ### Topics:

@@ -13,7 +13,7 @@ image:
 Another gamejam project I used as a Unity learning experience but this time a smaller scope. I reused the dialog system that I had previously implemented for [_A Story of Power_](/posts/a-story-of-power/)—a previous gamejam project. 
 
 I also designed some of the characters. For example the fairy queen:
-![img-fairy-queen](/assets/img/posts/dth-queen_process.png)
+![img-fairy-queen](/assets/img/posts/dth_queen_process.png)
 
 
 | Team size | My Role          | Time spent   | Technologies |
