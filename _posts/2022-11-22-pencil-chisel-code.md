@@ -11,9 +11,12 @@ image:
   alt: Logo designed by Chloé Charlier.
 ---
 
-Annual game jam I am co-hosting with [Chloé Charlier](https://lady-c.github.io/portfolio-chloe-charlier/index.html) every November on [Itch.io](https://itch.io/).
+Annual 50-hours game jam that I am co-hosting with [Chloé Charlier](https://lady-c.github.io/portfolio-chloe-charlier/index.html) every November on [Itch.io](https://itch.io/).
 
-It's a 50-hours game jam that focuses on self-made assets.
+What's special about this jam? - It allows the use of **self-made art and assets** only!
+
+I created this particular format because after participating in a few game jams myself, I noticed that (especially when time is short) people tend to just mix-and-match different asset packs where original designs could be. However, I personally enjoyed it much more when submissions used self-made assets. As a hobby artist myself, I love that creators can put their own art in the spotlight in this jam.
+
 
 | Year       | Theme                                                           | Sumbissions | Ratings | Winner                                     |
 |------------|:---------------------------------------------------------------:|:-----------:|:-------:|:-------------------------------------------:|
