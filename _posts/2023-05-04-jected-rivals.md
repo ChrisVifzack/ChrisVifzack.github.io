@@ -18,9 +18,7 @@ Players compete in a varity of Game Modes (e.g. Stuntrace, Glider Race, Crash De
 
 I worked ~2 years as a full-time gameplay programmer on this game—using [Unreal Engine](https://www.unrealengine.com/) and C++ with [JetBrains' Rider](https://www.jetbrains.com/rider/) as IDE and [Perforce](https://www.perforce.com/products/helix-core) for version control.
 
-As a programmer, I am first and foremost a problem solver. I enjoy diving deep into complex technical problems to find elegant and simple solutions that fit well with existing systems and overall software design. My work principle is to always stay on top of things, refactor if necessary, and maintain a clean code base. I don't go for the _quick & dirty_ approach, especially if it means to work-around existing features and make life harder on the long run. 
-
-Besides my programming tasks, I was frequently involved in planning meetings to discuss feature requirements, estimate efforts and align with designers, artists and other team members to ensure that we achieve our goals.
+As a programmer, I am first and foremost a problem solver. I enjoy diving deep into complex technical problems to find elegant and simple solutions that fit well with existing systems and overall software design. My work principle is to always maintain a clean codebase, refactor if necessary, and keep the project well-structured.
 
 For Jected Rivals, I was primarily responsible for:
 - 3C (Character, Controls, Camera):
@@ -34,6 +32,8 @@ For Jected Rivals, I was primarily responsible for:
 - Ingame Audio:
     - Character Voice and SFX
     - Commentary System (moderators commenting on current events in the game)
+
+Aside from my programming tasks, I was frequently involved in planning meetings to discuss feature requirements, estimate efforts and align with designers, artists and other team members to ensure that we achieve our goals.
 
 <br>
 
