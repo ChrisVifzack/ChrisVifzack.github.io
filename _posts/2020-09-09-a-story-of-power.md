@@ -10,7 +10,6 @@ image:
   alt: Submission to HackTheMidlands 5.0.
 ---
 
-
 First time participating in a gamejam. I was the programmer on this project and mainly improved my Unity and C# skills.
 
 A lesson we all learned was to keep the feature scope in the next gamejam **much much** smaller!
