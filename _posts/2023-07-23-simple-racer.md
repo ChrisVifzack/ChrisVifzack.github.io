@@ -21,7 +21,7 @@ The project includes the following features:
   - Vehicle can not only drive, but also jump and dash.
   - I want to handle those skills via the [Gameplay Ability System (GAS)](https://docs.unrealengine.com/latest/en-US/gameplay-ability-system-for-unreal-engine/) - but had no time to add it yet.
 - Checkpoint Racing:
-  - A game race game mode where the player has to complete a lap with checkpoints.
+  - A game mode where the player has to drive through checkpoints as fast as possible.
   - Once a full lap is completed the time will be saved and stored on the game instance.
 - AI with PID control for dynamic spline following:
   - AI functionality is encapsuled in the RacingAI plugin.
