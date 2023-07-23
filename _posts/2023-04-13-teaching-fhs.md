@@ -49,5 +49,5 @@ image:
 
  <object data="/assets/pdf/unreal_slides_SS2023.pdf#page=12&view=fit" type="application/pdf" width="100%" height="800px">
       <p>Unable to display PDF file. <a href="/assets/pdf/unreal_slides_SS2023.pdf">Download</a> instead.</p>
-    </object>
+</object>
 
