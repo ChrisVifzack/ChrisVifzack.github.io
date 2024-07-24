@@ -45,14 +45,14 @@ FTimerDelegate MyDelegate = FTimerDelegate::CreateUObject(this, &ThisClass::Hand
 GetWorld()->GetTimerManager().SetTimer(MyHandle, MyDelegate, Seconds, bLoop);
 ```
 
-So far so good that still leave the question of how to call a function with **return type** via timer? 
+So far so good. That still leaves the question of how to call a function with **return type** via timer? 
 
 ```cpp
 UFUNCTION()
 bool TryHandleTimerExpired();
 ```
 
- `FTimerDelegate` doesn't allow a return type, but we can work around this limitation with the help of a lambda functions. The general syntax for lambda functions in C++ follows the pattern `[ captures ] ( params ) { body }` ---check [cpp reference](https://en.cppreference.com/w/cpp/language/lambda) to learn more.
+ `FTimerDelegate` doesn't allow a return type, but we can work around this limitation with the help of a lambda. The general syntax for lambda functions in C++ follows the pattern `[ captures ] ( params ) { body }` ---check [cpp reference](https://en.cppreference.com/w/cpp/language/lambda) to learn more.
 
 Here is a simple example of creating a `FTimerDelegate` from a lambda function that wraps our callback function:
 
