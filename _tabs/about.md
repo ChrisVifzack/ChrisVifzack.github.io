@@ -15,5 +15,5 @@ Since April 2021, I'm working as a programmer in the gaming industry—and have 
 
 However, I never lost my passion for art and design and I'm using personal projects and online classes (e.g. GameDev.tv or Udemy) to improve my skills in other areas of games. 
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/christina-piberger-at/) or [Twitter](https://twitter.com/ChrisVifzack).
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/christina-charlier-at/) or [Bluesky](https://bsky.app/profile/chriscalation.bsky.social).
 

@@ -10,13 +10,13 @@ image:
   alt: Submission to GlobalGame Jam 2021.
 ---
 
-Another gamejam project I used as a Unity learning experience but this time a smaller scope. I reused the dialog system that I had previously implemented for [_A Story of Power_](/posts/a-story-of-power/)—a previous gamejam project. 
+Another gamejam project I used as a Unity learning experience but this time a smaller scope. I reused the dialog system that I had implemented for [_A Story of Power_](/posts/a-story-of-power/)—a previous gamejam project. 
 
 I also designed some of the characters. For example the fairy queen:
 ![img-fairy-queen](/assets/img/posts/dth_queen_process.png)
 
 
-| Team size | My Role          | Time spent   | Technologies |
+| Team size | My role          | Time spent   | Technologies |
 |-----------|:----------------:|:------------:|:------------:|
 | 3 people  | `Programmer/Artist`   | 3 days       | Unity, C#    |
 

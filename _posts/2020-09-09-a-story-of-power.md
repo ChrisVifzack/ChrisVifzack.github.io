@@ -14,7 +14,7 @@ First time participating in a gamejam. I was the programmer on this project and 
 
 A lesson we all learned was to keep the feature scope in the next gamejam **much much** smaller!
 
-| Team size | My Role          | Time spent   | Technologies |
+| Team size | My role          | Time spent   | Technologies |
 |-----------|:----------------:|:------------:|:------------:|
 | 3 people  | `Programmer`     | 3 days       | Unity, C#    |
 

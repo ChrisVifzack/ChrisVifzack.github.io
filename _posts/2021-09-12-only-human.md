@@ -20,7 +20,7 @@ I used the ephread's plugin to use Ink with Godot: [https://github.com/ephread/i
 I also wrote some simple fragmentshaders in GLSL to animate the UI.
 
 
-| Team size | My Role          | Time spent   | Technologies |
+| Team size | My role          | Time spent   | Technologies |
 |-----------|:----------------:|:------------:|:------------:|
 | 2 people  | `Programmer`     | 2 days       | Godot, GDScript, Ink   |
 

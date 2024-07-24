@@ -17,7 +17,7 @@ I used blender to model and animate the robots in the game as well as the neon s
 
 ![img-blender-assets](/assets/img/posts/recycle_or_else.png)
 
-| Team size | My Role          | Time spent   | Technologies    |
+| Team size | My role          | Time spent   | Technologies    |
 |-----------|:----------------:|:------------:|:---------------:|
 | 3 people  | `Artist`         | 3 days       | Unity, Blender  |
 

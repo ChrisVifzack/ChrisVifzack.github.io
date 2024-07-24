@@ -18,7 +18,7 @@ timezone: Europe/Vienna
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Christina Piberger # the main title
+title: Christina Charlier # the main title
 
 tagline: Game Dev Portfolio #Projects and Tutorials # it will display as the sub-title
 
@@ -37,11 +37,11 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Christina Piberger
+  name: Christina Charlier
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://www.linkedin.com/in/christina-piberger-at/
+    - https://www.linkedin.com/in/christina-charlier-at/
     #- https://twitter.com/username # change to your twitter homepage
     #- https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
@@ -53,7 +53,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: G-98EZEPJRXQ
 
 # Prefer color scheme setting.
 #

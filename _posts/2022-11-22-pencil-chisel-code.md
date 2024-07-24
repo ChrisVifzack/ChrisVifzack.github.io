@@ -20,6 +20,7 @@ I created this particular format because after participating in a few game jams 
 
 | Year       | Theme                                                           | Sumbissions | Ratings | Winner                                     |
 |------------|:---------------------------------------------------------------:|:-----------:|:-------:|:-------------------------------------------:|
+| `2023`     | [Slippery Slope](https://itch.io/jam/pencil-chisel-code-3)      | 15          | 317     | [Smash and Dash](https://lemonadecatyt.itch.io/smash-and-dash)
 | `2022`     | [Finding Comfort](https://itch.io/jam/pencil-chisel-code-2)     | 18          | 368     | [Burn Bright](https://exbrained.itch.io/burn-bright)
 | `2021`     | [Small Sacrifices](https://itch.io/jam/pencil-chisel-code)      | 12          | 161     | [Long Live The King](https://ojaoweir.itch.io/long-live-the-king)
 

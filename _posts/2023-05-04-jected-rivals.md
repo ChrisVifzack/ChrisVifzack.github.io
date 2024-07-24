@@ -4,7 +4,7 @@ author: chris
 date: 2023-05-04 00:34:00 +0100
 categories: [Game, Professional]
 tags: [game, unreal engine, steam]
-pin: true
+pin: false
 image:
   path: /assets/img/posts/jected_rivals_header.png
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
