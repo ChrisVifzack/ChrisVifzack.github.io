@@ -1,0 +1,21 @@
+# Christina Charlier
+
+> Game programmer and educator based in Austria, holding an M.Sc. in Computer Science.
+> This site is a portfolio featuring shipped games, teaching work, and technical blog posts about Unreal Engine.
+
+## About
+- Gameplay programmer specializing in Unreal Engine (C++) with a focus on multiplayer systems
+- Worked professionally at Pow Wow Entertainment (Jected Rivals) and Aesir Interactive (Police Simulator)
+- Teaches Unreal Engine at FH Salzburg (University of Applied Sciences)
+
+## Technical Posts
+- [Replication Pitfalls in Unreal Engine](https://chriscalation.com/posts/replication-pitfalls/): Common multiplayer replication gotchas in UE
+- [Using C++ Timers in Unreal Engine](https://chriscalation.com/posts/timer-in-unreal/): How to use FTimerHandle and FTimerDelegate
+
+## Projects
+- [Jected Rivals](https://chriscalation.com/posts/jected-rivals/): AA multiplayer game on Steam, 2 years as gameplay programmer
+- [Police Simulator: Patrol Officers](https://chriscalation.com/posts/police-simulator/): AA game on Steam, tech lead on Contraband Expansion
+- [Berghotel Heist](https://chriscalation.com/posts/berghotel-heist/): Indie co-op horror game on Steam
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/christina-charlier-at/
