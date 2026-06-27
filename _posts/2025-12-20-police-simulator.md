@@ -18,7 +18,7 @@ The game has gotten two major add-ons:
 
  I joined [Aesir Interactive](https://aesir-interactive.com/) in November 2023 and was part of the team working on live updates for the base game as well as the Contraband Expansion.
 
-My tasks where not limited to, but included:
+My tasks were not limited to, but included:
 - Programming:
     - Ambulance using stretcher to collect heavily injured NPCs
     - Vehicle gadgets: Snare Net + Launch Control

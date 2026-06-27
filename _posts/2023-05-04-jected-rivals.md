@@ -14,7 +14,7 @@ image:
 Released [on Steam](https://store.steampowered.com/app/1366850/Jected__Rivals/) in May 2023.
 
 A fast-paced multiplayer game where characters get ejected from vehicles and can use gadgets in the air.
-Players compete in a varity of Game Modes (e.g. Stuntrace, Glider Race, Crash Derby).
+Players compete in a variety of Game Modes (e.g. Stuntrace, Glider Race, Crash Derby).
 
 I worked ~2 years as a full-time gameplay programmer on this game—using [Unreal Engine](https://www.unrealengine.com/) and C++ with [JetBrains' Rider](https://www.jetbrains.com/rider/) as IDE and [Perforce](https://www.perforce.com/products/helix-core) for version control.
 
