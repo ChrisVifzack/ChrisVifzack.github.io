@@ -25,7 +25,7 @@ Here is an overview about the tools we used (slide from a talk I did at the [Vie
 I worked on **so many** different aspects of the game that it's impossible to list them. However, some new learnings I had during this project were:
 - How to use **Animation Retargeting** in Unreal
 - How to use **Modelling Editor Mode** to quickly create and modify meshes
-- How to setup + unlock Steam **Achievements via OnlineSubsystems** (OSSv1)
+- How to setup + unlock Steam **Achievements via OnlineSubsystem** (OSSv1)
 
 <br>
 
