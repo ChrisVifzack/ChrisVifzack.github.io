@@ -19,7 +19,7 @@ It was a true indie release. We did all marketing and PR work ourselves and join
 
 Here is an overview about the tools we used (slide from a talk I did at the [Vienna Unreal Meet-Up](https://communities.unrealengine.com/events/details/epic-games-vienna-presents-unreal-meetup-may-2025/)):
 
-![img-bhh-techstack](/assets/img/posts/berghotelheist_techstack.png)
+![img-bhh-techstack](/assets/img/posts/berghotelheist_techstack.jpg)
 
 
 I worked on **so many** different aspects of the game that it's impossible to list them. However, some new learnings I had during this project were:
