@@ -11,9 +11,9 @@ image:
   alt: Replication does not ensure the client goes through the same sequence of changes as the server.
 ---
 
-Multiplayer is one of the most dreaded topics in game development. It adds so much extra work to developement and testing that you are usually looking at **`5-10x`** the overall production effort (depending on the type of game you are making, ofc). And it gets underestimated all the time because no one wants to except this harsh reality.
+Multiplayer is one of the most dreaded topics in game development. It adds so much extra work to developement and testing that you are usually looking at **`5-10x`** the overall production effort (depending on the type of game you are making, ofc). And it gets underestimated all the time because no one wants to accept this harsh reality.
 
-The best documention for multiplayer in Unreal is probably Cedric Neukirchen's [Multiplayer Network Compendium](https://cedric-neukirchen.net/docs/category/multiplayer-network-compendium/). It's more detailed than Epic's own documention about [Replicate Actor Properties](https://dev.epicgames.com/documentation/en-us/unreal-engine/replicate-actor-properties-in-unreal-engine#addareplicatedproperty) and has some nice graphics. 
+The best documentation for multiplayer in Unreal is probably Cedric Neukirchen's [Multiplayer Network Compendium](https://cedric-neukirchen.net/docs/category/multiplayer-network-compendium/). It's more detailed than Epic's own documentation about [Replicate Actor Properties](https://dev.epicgames.com/documentation/en-us/unreal-engine/replicate-actor-properties-in-unreal-engine#addareplicatedproperty) and has some nice graphics. 
 
 In this post, I want to highlight some common replication issues Unreal developers (even experienced ones) keep getting fooled by:
 
@@ -73,11 +73,11 @@ void AMyComponent::GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLife
 
 ## 4. Setting replicated properties on the client
 
-I've heard the general advice to **never ever** do this! With the main argument that it messes up change detection for OnRep nofify callbacks. Which is true. However, this general "never do this" advice is idiotic. 
+I've heard the general advice to **never ever** do this! With the main argument being that it messes up change detection for OnRep nofify callbacks. Which is true. However, I disagree with the "never do this" advice. 
 
 There are cases where you want explicit control and all you need are the correct **replication conditions**!
 
-For example, if the **owning client** should manage their local value independently, while other clients (aka "simulated proxies") still receive the replicated value from the server, use `COND_SimulatedOnly`:
+For example, if the **owning client** should manage their local value independently, while other clients (aka "simulated proxies") still receive the replicated value from the server, one can use `COND_SimulatedOnly` as replication condition on the property like so:
 
 ```cpp
 void AMyActor::GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const

@@ -48,7 +48,6 @@ GetWorld()->GetTimerManager().SetTimer(MyHandle, MyDelegate, Seconds, bLoop);
 So far so good. That still leaves the question of how to call a function with **return type** via timer? 
 
 ```cpp
-UFUNCTION()
 bool TryHandleTimerExpired();
 ```
 
@@ -58,13 +57,13 @@ Here is a simple example of creating a `FTimerDelegate` from a lambda function t
 
 
 ```cpp
-FTimerDelegate MyDelegate = FTimerDelegate::CreateLambda( [this] ()
-  {
-      if (TryHandleTimerExpired()) 
-      {
-        // Do even more stuff if function returns true.
-      }
-  });
+FTimerDelegate MyDelegate = FTimerDelegate::CreateLambda([this] ()
+{
+    if (TryHandleTimerExpired()) 
+    {
+      // Do even more stuff if function returns true.
+    }
+});
 
 GetWorld()->GetTimerManager().SetTimer(MyHandle, MyDelegate, Seconds, bLoop);
 
@@ -73,7 +72,7 @@ GetWorld()->GetTimerManager().SetTimer(MyHandle, MyDelegate, Seconds, bLoop);
 There are even more ways to create a `FTimerDelegate` but those three simple examples are covering the most common use cases already.
 
 
-Don't forget to clear your timer handle during `EndPlay` to not leave any timers running if the object gets destroyed: 
+We don't want to risk any nasty crashes, so never forget to clear your timer handle during `EndPlay`:
 ```cpp
 GetWorld()->GetTimerManager().ClearTimer(MyHandle);
 ```
