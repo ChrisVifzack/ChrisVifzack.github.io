@@ -2,7 +2,7 @@
 title: Down The Hole
 author: chris
 date: 2021-03-02 00:34:00 +0100
-categories: [Game, Personal]
+categories: [Game, Gamejam]
 tags: [game, unity, itch.io, gamejam]
 image:
   path: https://img.itch.zone/aW1nLzUwODc0OTMucG5n/315x250%23c/WGVjyx.png

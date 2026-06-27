@@ -2,11 +2,11 @@
 title: Simple Racer with AI in Unreal Engine 5
 author: chris
 date: 2023-07-23 00:34:00 +0100
-categories: [Game, Personal]
+categories: [Game, Experiments]
 tags: [game, unreal engine]
 pin: false
 image:
-  path: /assets/img/posts/simple_racer.png
+  path: /assets/img/posts/simple_racer.jpg
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt: A simple racing game with AI created in Unreal Engine 5.
 ---

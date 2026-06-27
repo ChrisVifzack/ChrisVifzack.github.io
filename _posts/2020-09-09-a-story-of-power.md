@@ -2,7 +2,7 @@
 title: A Story of Power
 author: chris
 date: 2020-09-09 00:34:00 +0100
-categories: [Game, Personal]
+categories: [Game, Gamejam]
 tags: [game, unity, itch.io, gamejam]
 image:
   path: https://img.itch.zone/aW1nLzQ0NzI0ODkucG5n/315x250%23c/2xoXds.png

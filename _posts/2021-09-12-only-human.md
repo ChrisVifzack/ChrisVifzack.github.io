@@ -2,7 +2,7 @@
 title: Only Human
 author: chris
 date: 2021-09-12 00:34:00 +0100
-categories: [Game, Personal]
+categories: [Game, Gamejam]
 tags: [game, godot, itch.io, gamejam]
 image:
   path: https://img.itch.zone/aW1nLzY4NzMyNjIucG5n/315x250%23c/oThd49.png

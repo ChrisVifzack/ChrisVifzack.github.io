@@ -15,7 +15,7 @@ Released on Steam in March 2023.
 A tool to create polls which can be used as overlay in a twitch stream. 
 
 
-I was experimenting with UI in [Godot](https://godotengine.org/) and wanted to learn how to add Twitch Chat integration. It worked well, so I decided to publish the project on Steam.
+I was experimenting with UI in the [Godot](https://godotengine.org/) engine and wanted to try to add **Twitch Chat integration**. It worked well, so I decided to publish the project on Steam.
 
 <br>
 

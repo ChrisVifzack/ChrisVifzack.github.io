@@ -15,11 +15,13 @@ Annual 50-hours game jam that I am co-hosting with [Chloé Charlier](https://lad
 
 What's special about this jam? - It allows the use of **self-made art and assets** only!
 
-I created this particular format because after participating in a few game jams myself, I noticed that (especially when time is short) people tend to just mix-and-match different asset packs where original designs could be. However, I personally enjoyed it much more when submissions used self-made assets. As a hobby artist myself, I love that creators can put their own art in the spotlight in this jam.
+Yes, Covid was a boring time and I found that there aren't a lot of game jams that put a focus on self-made ART. Often it's just a mix-and-match of asset packs. But I much rather see smaller games with lovely custom assets. That's why we created this particular format of game jam. Put your own art in the spotlight of your game!
 
 
 | Year       | Theme                                                           | Sumbissions | Ratings | Winner                                     |
 |------------|:---------------------------------------------------------------:|:-----------:|:-------:|:-------------------------------------------:|
+| `2025`     | [Clean Break](https://itch.io/jam/pencil-chisel-code-5)        | 1           | -      | [Bahnbremsend](https://ccoors.itch.io/bahnbremsend)
+| `2024`     | [Mind the Gap](https://itch.io/jam/pencil-chisel-code-4)        | 4           | 16      | [Wing & Silk](https://andyman404.itch.io/wing-and-silk)
 | `2023`     | [Slippery Slope](https://itch.io/jam/pencil-chisel-code-3)      | 15          | 317     | [Smash and Dash](https://lemonadecatyt.itch.io/smash-and-dash)
 | `2022`     | [Finding Comfort](https://itch.io/jam/pencil-chisel-code-2)     | 18          | 368     | [Burn Bright](https://exbrained.itch.io/burn-bright)
 | `2021`     | [Small Sacrifices](https://itch.io/jam/pencil-chisel-code)      | 12          | 161     | [Long Live The King](https://ojaoweir.itch.io/long-live-the-king)

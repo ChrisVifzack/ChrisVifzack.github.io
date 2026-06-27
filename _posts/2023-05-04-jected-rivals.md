@@ -1,8 +1,8 @@
 ---
-title: Jected Rivals
+title: "Jected Rivals"
 author: chris
 date: 2023-05-04 00:34:00 +0100
-categories: [Game, Professional]
+categories: [Game, Professional (AA)]
 tags: [game, unreal engine, steam]
 pin: false
 image:
@@ -18,7 +18,7 @@ Players compete in a varity of Game Modes (e.g. Stuntrace, Glider Race, Crash De
 
 I worked ~2 years as a full-time gameplay programmer on this game—using [Unreal Engine](https://www.unrealengine.com/) and C++ with [JetBrains' Rider](https://www.jetbrains.com/rider/) as IDE and [Perforce](https://www.perforce.com/products/helix-core) for version control.
 
-As a programmer, I am first and foremost a problem solver. I enjoy diving deep into complex technical problems to find elegant and simple solutions that fit well with existing systems and overall software design. My work principle is to always maintain a clean codebase, refactor if necessary, and keep the project well-structured.
+As a programmer, I am first and foremost a problem solver. I enjoy diving deep into complex technical problems to find elegant solutions that fit well with existing systems and overall software design. My work principle is to always maintain a clean codebase, refactor if necessary, and keep the project well-structured.
 
 For Jected Rivals, I was primarily responsible for:
 - 3C (Character, Controls, Camera):

@@ -2,7 +2,7 @@
 title: Recycle Or Else!
 author: chris
 date: 2022-02-13 00:34:00 +0100
-categories: [Game, Personal]
+categories: [Game, Gamejam]
 tags: [game, unity, blender, itch.io, gamejam]
 image:
   path: https://img.itch.zone/aW1nLzgxNDgwNTEuanBn/315x250%23c/kYjnhm.jpg

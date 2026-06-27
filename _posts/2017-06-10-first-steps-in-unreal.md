@@ -2,7 +2,7 @@
 title: "First steps in Unreal Engine"
 author: chris
 date: 2017-06-10 00:34:00 +0100
-categories: [Game, Personal]
+categories: [Game, Experiments]
 tags: [game, unreal engine]
 image:
   path: /assets/img/posts/ue_first_steps.png
